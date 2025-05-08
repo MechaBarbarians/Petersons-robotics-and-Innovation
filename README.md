@@ -15,7 +15,7 @@ To develop autonomous robotic systems capable of operating in extreme environmen
 Create a fully modular, self-replicating robotics system to support environmental research, space colonization, and sustainable infrastructure.
 
 ## 🙌 Support Us
-If you believe in innovation, independence, and pioneering tech, [donate here](https://www.gofundme.com/) to support our mission.
+If you believe in innovation, independence, and pioneering tech, [donate here](https://www.gofundme.com/f/fuel-the-future-help-build-spider-v1) to support our mission.
 
 > “No matter how hard or impossible it is, never lose sight of your goal.” — Monkey D. Luffy
 
